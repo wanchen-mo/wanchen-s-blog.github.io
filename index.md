@@ -2,7 +2,7 @@
 
 ## Wanchen Mo
 ### Education Background
-- Studying in Univdersity of Toronto (Bachelor's Degree)
+- Studying in Univdersity of Toronto (Third Year)
 - Statistics Major
 - Courses taken: STA130, STA237/238, STA302, STA303, STA304/305
 
