@@ -12,4 +12,4 @@
 - Linear Mixed Model
 - Experiment Design
 
-### Hope that we will have a great time disscussing statistic knowledge in the future!
+### Hope that we will share a great time disscussing statistics in the future!
